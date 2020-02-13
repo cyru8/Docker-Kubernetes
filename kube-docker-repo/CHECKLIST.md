@@ -1,5 +1,5 @@
 Checklist to use when delivering a workshop
-Aauthored by Jérôme; additions by Bridget
+Authored by Jérôme; additions by Bridget
 
 - [ ] Create event-named branch (such as `conferenceYYYY`) in the [main repo](https://github.com/jpetazzo/container.training/)
   - [ ] Create file `slides/_redirects` containing a link to the desired tutorial: `/ /kube-halfday.yml.html 200`
